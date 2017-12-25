@@ -1,4 +1,4 @@
-git address : https://github.com/DeemOpen/zkui.
+git address : https://github.com/DeemOpen/zkui
 csdn blog address : http://blog.csdn.net/lovesummerforever/article/details/48997797
 
 zkui - Zookeeper UI Dashboard
